@@ -1,0 +1,1 @@
+import{r as e}from"./overlay.CWvtiRU4.js";var t=document.querySelector(`#route .map`),n=document.getElementById(`mov`);t&&n&&t.addEventListener(`click`,()=>{e(n,t);let r=n.querySelector(`.z`);r&&(r.scrollLeft=(r.scrollWidth-r.clientWidth)/2)});

@@ -1,0 +1,1 @@
+import{t as e}from"./rail.abN8lZ0U.js";var t=document.querySelector(`.revs`);t&&e(t,.6);
