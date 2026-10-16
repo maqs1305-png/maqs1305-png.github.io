@@ -1,0 +1,1 @@
+function e(e){window.__METRIKA_ID&&typeof window.ym==`function`&&window.ym(window.__METRIKA_ID,`reachGoal`,e)}document.addEventListener(`click`,t=>{let n=t.target?.closest(`[data-goal]`)?.dataset.goal;n&&e(n)});export{e as t};

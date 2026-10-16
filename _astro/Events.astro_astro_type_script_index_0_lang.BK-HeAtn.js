@@ -1,0 +1,1 @@
+import{t as e}from"./gallery.F4taIkHl.js";var t=document.querySelector(`#events .evp`);t&&e([t],JSON.parse(t.dataset.images||`[]`));
