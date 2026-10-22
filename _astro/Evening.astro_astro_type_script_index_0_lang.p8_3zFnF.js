@@ -1,0 +1,1 @@
+import{t as e}from"./rail.abN8lZ0U.js";import{t}from"./gallery.F4taIkHl.js";var n=document.querySelector(`.strip`);n&&e(n,.45),n&&t([...n.querySelectorAll(`[data-i]`)],JSON.parse(n.dataset.images||`[]`));
